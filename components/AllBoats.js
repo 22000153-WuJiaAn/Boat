@@ -2,6 +2,7 @@ import React from 'react';
 import {ScrollView} from 'react-native';
 import Boat from './Boat';
 
+
 const AllBoats= () => {
     return (
         <ScrollView>
